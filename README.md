@@ -1,13 +1,13 @@
 # ibm_data_engineering_python_ETL
 Python project for IBM's Data Engineering Certificate, course #3
 
-##Tools Used##
+## Tools Used 
 - Python
 - Jupyter Notebooks
 - IBM Watson Studio
 - Pandas 
 
-##Project Tasks##
+## Project Tasks
 - Collect data using APIs
 - Collect data using webscraping.
 - Download files to process.    
@@ -17,8 +17,8 @@ Python project for IBM's Data Engineering Certificate, course #3
 - Use the built in logging module.
 - Save the transformed data in a ready-to-load format which data engineers can use to load the data.
 
-##Skills learned/practiced##
+## Skills learned/practiced
 Crafting functions to extract data from .json source into Pandas dataframe, transform columns, and load into .csv file for storage as well as logging functions for the entire ETL process.
 
-##Most challenging aspect##
+## Most challenging aspect
 Debugging inside of Jupyter notebook is a bit awkward and took some getting used to - I ended up using empty cells to test and craft code segments before consolidating into finished functions.
